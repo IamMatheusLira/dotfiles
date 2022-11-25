@@ -1,0 +1,7 @@
+[user]
+	email = 61715822+IamMatheusLira@users.noreply.github.com
+	name = Matheus Lira
+[pull]
+	rebase = true
+[init]
+	defaultBranch = master

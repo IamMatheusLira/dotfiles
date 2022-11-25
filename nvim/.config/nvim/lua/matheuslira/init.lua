@@ -1,0 +1,7 @@
+require'matheuslira.packer'
+require'matheuslira.set'
+require'matheuslira.lsp'
+require'matheuslira.cmp'
+require'matheuslira.telescope'
+require'matheuslira.tree'
+require'matheuslira.remap'
